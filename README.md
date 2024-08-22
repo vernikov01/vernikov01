@@ -1,4 +1,8 @@
-## Hi there 👋
+## Cybersecurity and Privacy Enthusiast
+
+Certified OpSWAT Network Security Associate
+Back End Developer for Error-502 VPN 
+
 
 <!--
 **vernikov01/vernikov01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
