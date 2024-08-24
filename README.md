@@ -73,3 +73,5 @@
 <p align="center">
   <img src="https://github-readme-motto.vercel.app/api?user=vernikov01" alt="Motto" />
 </p>
+
+<iframe src="https://discord.com/widget?id=1276163030505230528&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
