@@ -1,6 +1,7 @@
 <h1 align="center">Hi there, I'm Vernikov01! 👋</h1>
 
 <p align="center">
+  <img src="http://canarytokens.com/images/a6cmx46ousa7kso5c2gvkrlc3/payments.js"
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&width=435&lines=Cybersecurity+%26+Privacy+Enthusiast;Certified+OpSWAT+Security+Associate;Back+End+Developer+%40+Error-502+VPN;Open+Source+Contributor;Always+Learning+%26+Exploring+New+Tech">
 </p>
 
